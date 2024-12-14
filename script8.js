@@ -1,4 +1,4 @@
-// Objective: Stimulate a Coin Toss
+// Objective: Stimulate a Coin Toss.
 var userInput=prompt("Enter 1 to select Heads or Enter 0 to select Tails");
 let random= Math.floor( Math.random() * 2);
 
