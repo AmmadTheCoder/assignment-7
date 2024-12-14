@@ -1,4 +1,4 @@
-// Objective: Maximum of Two Numbers
+// Objective: Maximum of Two Numbers.
 var userInput1=+ prompt("Enter a Number");
 var userInput2=+ prompt("Enter a Number");
 if (userInput1 > userInput2) {
