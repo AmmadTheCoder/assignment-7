@@ -1,4 +1,4 @@
-// Objective: Test Arithemetic Skills Interactively
+// Objective: Test Arithemetic Skills Interactively.
 var abc=Math.floor(Math.random() * 100)+50;
 var xyz=Math.floor(Math.random() * 100);
 var userInput=prompt(`Solve the equation: ${abc} * ${xyz} + ${abc} - ${xyz} / ${xyz} and write the answer`);
