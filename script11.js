@@ -1,4 +1,4 @@
-// Objective: Eligibility for Voting
+// Objective: Eligibility for Voting.
 var userInput=prompt("Enter your age");
 if (userInput>=18) {
     console.log("You are eligible to vote");
