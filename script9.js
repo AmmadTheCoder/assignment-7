@@ -1,4 +1,4 @@
-// Objective: Give Outfits Suggestions based on Weather Conditions
+// Objective: Give Outfits Suggestions based on Weather Conditions.
 var userInput= prompt("Enter the Weather sunny, rainy or cold");
 if (userInput== "sunny" || userInput== "Sunny") {
     console.log("Wear Sunglasses");
